@@ -1,3 +1,2 @@
 # Testes-de-Games
- Gustavo e Edu
-AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Gustavo e Edu
